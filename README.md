@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a React Native video chat app, a review collection bot, and a horror game in UE5.<br>
+🔭 I’m currently working on a React Native multiplayer game app, and a Retro Horror game in Unity.<br>
 
 
 ## 🌐 Socials:
